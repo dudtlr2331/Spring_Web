@@ -5,5 +5,5 @@
 	<bean id="memberService" class="pro19.com.spring.ex03.MemberServiceImpl">
 	   <property name="memberDAO" ref="memberDAO" />
 	</bean>
-	<bean id="memberDAO" class="com.spring.ex03.MemberDAOImpl" />
+	<bean id="memberDAO" class="pro19.com.spring.ex03.MemberDAOImpl" />
 </beans>
