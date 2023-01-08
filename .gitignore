@@ -1,6 +1,5 @@
 *.class
 bin/
-lib/
 /.metadata/
 */.classpath
 */.project
